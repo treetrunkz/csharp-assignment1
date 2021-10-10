@@ -1,0 +1,16 @@
+C:\Users\Cheemz\source\repos\LinkedListC\LinkedListC\obj\Debug\net5.0\LinkedListC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cheemz\source\repos\LinkedListC\LinkedListC\obj\Debug\net5.0\LinkedListC.AssemblyInfoInputs.cache
+C:\Users\Cheemz\source\repos\LinkedListC\LinkedListC\obj\Debug\net5.0\LinkedListC.AssemblyInfo.cs
+C:\Users\Cheemz\source\repos\LinkedListC\LinkedListC\obj\Debug\net5.0\LinkedListC.csproj.CoreCompileInputs.cache
+C:\Users\Cheemz\source\repos\LinkedListC\LinkedListC\bin\Debug\net5.0\LinkedListC.exe
+C:\Users\Cheemz\source\repos\LinkedListC\LinkedListC\bin\Debug\net5.0\LinkedListC.deps.json
+C:\Users\Cheemz\source\repos\LinkedListC\LinkedListC\bin\Debug\net5.0\LinkedListC.runtimeconfig.json
+C:\Users\Cheemz\source\repos\LinkedListC\LinkedListC\bin\Debug\net5.0\LinkedListC.runtimeconfig.dev.json
+C:\Users\Cheemz\source\repos\LinkedListC\LinkedListC\bin\Debug\net5.0\LinkedListC.dll
+C:\Users\Cheemz\source\repos\LinkedListC\LinkedListC\bin\Debug\net5.0\ref\LinkedListC.dll
+C:\Users\Cheemz\source\repos\LinkedListC\LinkedListC\bin\Debug\net5.0\LinkedListC.pdb
+C:\Users\Cheemz\source\repos\LinkedListC\LinkedListC\obj\Debug\net5.0\LinkedListC.dll
+C:\Users\Cheemz\source\repos\LinkedListC\LinkedListC\obj\Debug\net5.0\ref\LinkedListC.dll
+C:\Users\Cheemz\source\repos\LinkedListC\LinkedListC\obj\Debug\net5.0\LinkedListC.pdb
+C:\Users\Cheemz\source\repos\LinkedListC\LinkedListC\obj\Debug\net5.0\LinkedListC.genruntimeconfig.cache
+C:\Users\Cheemz\source\repos\LinkedListC\LinkedListC\obj\Debug\net5.0\LinkedListC.csproj.AssemblyReference.cache
